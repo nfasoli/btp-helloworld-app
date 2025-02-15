@@ -3,7 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content>
-           <Button xmlns="sap.m" text="Clicca il bottone" id="button" press=".onPress"></Button>
+           <Button xmlns="sap.m" text="Clicca il bottone CI/CD" id="button" press=".onPress"></Button>
         </content>
     </Page>
 </mvc:View>
